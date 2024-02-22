@@ -1,0 +1,7 @@
+print('Hello world cburzon !!!')
+print ('Hello everyone')
+print('Hi ara en catala')
+print('Hi ara en catalufo')
+print('Hi ara en tartufo')
+print('HHHHH')
+print('AAAAA')
